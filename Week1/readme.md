@@ -15,7 +15,7 @@ Introduction to Machine learning
 
 If you got it...
 
-**ERROR: Cannot uninstall 'wrapt'. It is a distutils installed project and thus we cannot accurately determine which files belong to it which would lead to only a partial uninstall.**
+*ERROR: Cannot uninstall 'wrapt'. It is a distutils installed project and thus we cannot accurately determine which files belong to it which would lead to only a partial uninstall.*
 
 
 Do it
@@ -28,6 +28,7 @@ pip install tensorflow
 ## Useful links
 
 [ERROR: Cannot uninstall 'wrapt'. during upgrade](https://github.com/tensorflow/tensorflow/issues/30191)
+
 [How to update to the latest numpy and scipy on Ubuntu 14.04LTS](https://askubuntu.com/questions/682825/how-to-update-to-the-latest-numpy-and-scipy-on-ubuntu-14-04lts)
 
 ## To Do
