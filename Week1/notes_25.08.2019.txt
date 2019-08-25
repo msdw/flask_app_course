@@ -1,0 +1,65 @@
+1 - Create a personal site, sugestion: Weebly
+
+service I want to offer
+
+Skills I need to learn
+
+
+Mission
+
+Vision
+
+
+3 - Built Social Media
+
+3.1 - Twitter, do not use hashtags
+3.2 - Facebook
+3.3 - Instagram
+3.4 - LinkedIn, use hashtags
+3.5 - Youtube, Follow:
+3.6 - Reddit
+  R/compsci
+  R/machinelearning
+  R/learningmachinelearning
+  R/cscareerquestions
+
+Github is the new resume
+
+##############################################################
+The Machine Learning Pipeline
+
+Prepare Data => Build & Train Models => Deploy & Predict
+
+
+WebStorm
+HTLM, CSS, JS, jQuery, Angular...
+
+PyCharm
+Web Framework: Flask
+
+Jupyter
+Python: TensorFlow, Keras, Scikit-learn, pandas, NumPy, SciPy, NLTK, Gensim
+
+
+
+
+##############################################################
+
+# Install Flask
+https://flask.palletsprojects.com/en/1.1.x/installation/
+
+# Quick Start
+https://flask.palletsprojects.com/en/1.1.x/quickstart/
+
+Keras, image classify
+
+##############################################################
+
+
+##############################################################
+
+
+##############################################################
+
+
+##############################################################
