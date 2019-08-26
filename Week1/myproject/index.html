@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://unpkg.com/cirrus-ui">
+
+    <!-- Load the latest version of TensorFlow.js -->
+    <script src="https://unpkg.com/@tensorflow/tfjs"></script>
+    <script src="https://unpkg.com/@tensorflow-models/mobilenet@2.0.2"></script>
+  </head>
+  <body>
+    <div class="content">
+      <h3>Image Classification via a Webcam</h3>
+      <div class="divider"></div>
+
+      <div id="loading">Loading...</div>
+
+      <div class="row fluid-container">
+        <div class="col-fluid">
+          <input id='file-input' type='file' hidden />
+          <button id="classify-image" class="animated loading loading-left">Classify Picture</button>
+          
+          <div id="preview-image"></div>
+          <div id="result"></div>
+        </div>
+        <div class="col-fluid">
+          <button id="classify-webcam" class="animated loading loading-left">Classify Webcam</button>
+      
+          <div id="console"></div>
+          <video autoplay playsinline muted id="webcam" width="224" height="224"></video>
+        </div>
+      </div>
+    </div>
+
+    <!-- Load index.js after the content of the page -->
+    <script src="index.js"></script>
+  </body>
+</html>
