@@ -30,7 +30,7 @@ Make Money with Machine Learning
 
 ## Student
 
-* **Rodrigo Moraes Silveira**
-*Git hub* - (https://github.com/rodrigoms2004)
-*E-mail*  - rodrigoms2004@gmail.com
+* **Mathurin Aché**
+*Git hub* - (https://github.com/msdw)
+*E-mail*  - mathurin.ache@free.fr
 
